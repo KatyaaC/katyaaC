@@ -12,9 +12,8 @@ Currently working on:
 
 ## Featured Project
 
-**4-bit NMOS Full Adder**  
-Transistor-level implementation of a 4-bit adder using discrete NMOS logic  
-without ICs.
+**WiFi vs Bluetooth Signal Classifier**
+Spectrogram image pipeline using HOG feature extraction and SVM to classify radio frequency signals, achieving 97% test accuracy on 503 samples.
 
 ---
 
