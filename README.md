@@ -1,13 +1,10 @@
 ## About
-
 Electronics and Communication Engineering student with an interest in
-software-driven problem solving and backend-focused projects.
-
+machine learning, computer vision, and backend-focused projects.
 Currently working on:
-- Data Structures and Algorithms in Python
-- Backend development using Flask
-- Applying software tools to real-world problem statements
-
+- Machine learning pipelines using scikit-learn and Flask
+- Computer vision for signal and image classification
+- Information retrieval systems using TF-IDF and BM25
 ---
 
 ## Featured Project
