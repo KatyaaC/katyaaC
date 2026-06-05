@@ -12,8 +12,9 @@ Currently working on:
 
 ## Featured Project
 
-**WiFi vs Bluetooth Signal Classifier**
-Spectrogram image pipeline using HOG feature extraction and SVM to classify radio frequency signals, achieving 97% test accuracy on 503 samples.
+**WiFi vs Bluetooth Signal Classifier**  
+Spectrogram image pipeline using HOG feature extraction and SVM to classify radio frequency signals,
+achieving 97% test accuracy on 503 samples.
 
 ---
 
@@ -28,9 +29,9 @@ Embedded system using joystick input and serial communication to simulate
 keyboard controls.
 ## Repositories
 
-- `4-bit-nmos-full-adder`
+- `wifi-bluetooth-signal-classifier`
 - `medicine-alternative-finder`
-- `arduino-gaming-controller`
+- `multi-game-console-c`
 - CS-related coursework and experiments
 
 
